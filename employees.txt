@@ -1,6 +1,6 @@
 Employee Management System
 
-ID  - Name   - Role
-101 - Sachin - Java Developer
-102 - Rahul  - React Developer
-103 - Priya  - Backend Developer
+ID  - Name   - Role              - Salary
+101 - Sachin - Java Developer    - 70000
+102 - Rahul  - React Developer   - 65000
+103 - Priya  - Backend Developer - 75000
