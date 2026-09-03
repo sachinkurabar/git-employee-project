@@ -1,6 +1,6 @@
 Employee Management System
 
-ID  - Name   - Role              - Salary    - Email
-101 - Sachin - Java Developer    - 70000 INR - sachin@example.com
-102 - Rahul  - React Developer   - 65000 INR - rahul@example.com
-103 - Priya  - Backend Developer - 75000 INR - priya@example.com
+ID  - Name   - Role              - Salary    - Email              - Pincode
+101 - Sachin - Java Developer    - 70000 INR - sachin@example.com - 588024
+102 - Rahul  - React Developer   - 65000 INR - rahul@example.com  - 580025
+103 - Priya  - Backend Developer - 75000 INR - priya@example.com  - 580024
